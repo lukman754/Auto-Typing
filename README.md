@@ -13,7 +13,7 @@ Auto Typing Tool adalah aplikasi desktop yang membantu Anda meng-otomatisasi pro
 - **Tombol stop** untuk menghentikan pengetikan kapan saja
 
 ## Instalasi
-1. Unduh file `AutoTypingBot_Installer.exe`
+1. Unduh file [AutoTypingBot_Installer.exe](https://github.com/lukman754/Auto-Typing/releases/download/v1.0/AutoTypingBot_Installer.exe)
 2. Jalankan file installer dan ikuti petunjuk di layar
 3. Setelah instalasi selesai, Anda dapat menjalankan aplikasi dari menu Start atau dari shortcut di desktop
 
